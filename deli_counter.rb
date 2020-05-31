@@ -2,8 +2,8 @@ require 'pry'
 
 def line(array)
   # binding.pry 
-  
-
+  # each name is an array
+  # 
 
 def take_a_number(array, name)
   # binding.pry 
