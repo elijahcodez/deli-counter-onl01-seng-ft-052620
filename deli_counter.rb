@@ -9,7 +9,7 @@ def line(array)
     "#{index}. #{name}"
   end
   
-  if array
+  if array.lemgth > 0 
 def take_a_number(array, name)
   # binding.pry 
   array << name
