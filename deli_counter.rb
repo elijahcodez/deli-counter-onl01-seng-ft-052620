@@ -1,6 +1,7 @@
 require 'pry'
 
-
+def line(array)
+  
 
 
 def take_a_number(array, name)
