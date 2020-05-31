@@ -7,6 +7,8 @@ def line(array)
 # new_modified_array =
   array.map!.with_index(1) do |name, index|
     "#{index}. #{name}"
+  end
+  
 def take_a_number(array, name)
   # binding.pry 
   array << name
