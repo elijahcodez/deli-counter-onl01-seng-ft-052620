@@ -6,4 +6,4 @@ end
 
 def now_serving(array)
   
-  if 
+  if array.length
