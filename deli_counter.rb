@@ -6,4 +6,4 @@ end
 
 def now_serving(array)
   
-  if array.length> log10
+  if array.length> 0
