@@ -1,1 +1,1 @@
-def take
+def take_a_number
