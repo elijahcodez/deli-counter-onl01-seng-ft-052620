@@ -1,7 +1,8 @@
 require 'pry'
 
 def line(array)
-  #
+  # binding.pry 
+  
 
 
 def take_a_number(array, name)
