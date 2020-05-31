@@ -10,7 +10,7 @@ def line(array)
   end
   
   if array.lemgth > 0 
-    puts "The line is currently: #array.join(" ""
+    puts "The line is currently: #{array.join(" ")}"
 def take_a_number(array, name)
   # binding.pry 
   array << name
