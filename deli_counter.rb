@@ -10,6 +10,7 @@ def line(array)
   end
   
   if array.lemgth > 0 
+    puts ""
 def take_a_number(array, name)
   # binding.pry 
   array << name
