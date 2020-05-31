@@ -5,7 +5,7 @@ def line(array)
   # each name is an array
   # the names are listed starting from 1
 # new_modified_array =
-  array.map!.with_index(1)
+  array.map!.with_index(1) do |name, 
 def take_a_number(array, name)
   # binding.pry 
   array << name
